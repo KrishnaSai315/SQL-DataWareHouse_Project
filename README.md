@@ -30,7 +30,6 @@ This project showcases the following core technical skills:
 - **Architecture Design:** DrawIO
 
 ---
-
 ## 🚀 Project Requirements & Execution
 
 ### Part 1: Building the Data Warehouse (Data Engineering)
