@@ -17,6 +17,12 @@ The data architecture for this project follows the Medallion Architecture with *
 ---
 ## 📖 Project Overview
 
+### 📋 Project Management & Agile Workflow
+
+To ensure a structured development process, the entire lifecycle of this project—from initial architecture design to final analytical queries—was tracked step-by-step using **Notion**. 
+
+You can view my complete task board, sprint breakdown, and workflow documentation here: **[View my Notion Project Board](https://www.notion.so/SQL-Data-Warehouse-Project-dd01d447fae5835da87c814af18a16b0?source=copy_link)**
+
 This project showcases the following core technical skills:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse using the Medallion Architecture.
