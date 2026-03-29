@@ -33,7 +33,7 @@ This project showcases the following core technical skills:
 ---
 ## 🚀 Project Requirements & Execution
 
-### Part 1: Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering)
 
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -46,7 +46,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### Part 2: BI Analytics & Reporting (Data Analysis)
+### BI Analytics & Reporting (Data Analysis)
 
 #### Objective
 Developed SQL-based analytics to deliver detailed insights into:
