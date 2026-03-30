@@ -1,6 +1,6 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 
-Welcome to my **Data Warehouse and Analytics Project**! 🚀  
+Welcome to my **Data Warehouse Project**! 🚀  
 I built this data warehouse and analytics pipeline completely from scratch. It covers the entire data lifecycle, from taking raw, messy source data and engineering ETL pipelines to designing the star schemas needed to answer real business questions and power actual reports.
 
 ---
