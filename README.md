@@ -110,8 +110,8 @@ Engineered ETL Pipelines: Wrote robust T-SQL scripts to extract raw, fragmented 
 
 Delivered Business Intelligence: Transformed chaotic CSV files into a centralized, single source of truth capable of answering complex business questions regarding customer segmentation, product inventory, and sales forecasting.
 
-Always down to collaborate on interesting data challenges. Let's connect!
+## Let's connect
+If something I've built looks interesting or useful, feel free to reach out.
 
-LinkedIn: https://www.linkedin.com/in/lvkrishna3/
-
-Email: loknadh.kona@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvkrishna3/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loknadh.kona@gmail.com)
