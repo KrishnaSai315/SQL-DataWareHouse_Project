@@ -99,10 +99,11 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi, I’m Loknadh_Kona (but you can call me Loki). ⚡
 With an MS in Data Science and hands-on experience as a Systems Engineer and Data Scientist, I specialize in turning raw data into strategic assets. I approach a messy dataset a lot like a heavy lifting session at the gym: it takes discipline, the right technique, and a little bit of sweat to build solutions that scale and are built to last.
 
-Why I Built This Project
+### Why I Built This Project
+
 I developed this repository to demonstrate my ability to own the entire data lifecycle from end to end. I wanted to showcase that I can bridge the gap between building resilient backend data architecture and delivering front-end business value—proving I can handle both the heavy lifting of data engineering and the nuanced logic of advanced analytics.
 
-What I Accomplished Here
+### What I Accomplished Here
 
 Architected a Data Warehouse: Designed and built a modern data warehouse from scratch using the industry-standard Medallion Architecture.
 
