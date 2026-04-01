@@ -52,7 +52,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-## 📈 Phase 2: Data Analytics & Business Intelligence
+### 📈 Phase 2: Data Analytics & Business Intelligence
 
 #### Objective
 Developed SQL-based analytics to deliver detailed insights into:
