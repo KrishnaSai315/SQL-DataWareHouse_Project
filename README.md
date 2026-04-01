@@ -39,7 +39,7 @@ This project showcases the following core technical skills:
 ---
 ## 🚀 Project Requirements & Execution
 
-### Building the Data Warehouse (Data Engineering)
+### Phase 1: Building the Data Warehouse (Data Engineering)
 
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -52,7 +52,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI Analytics & Reporting (Data Analysis)
+## 📈 Phase 2: Data Analytics & Business Intelligence
 
 #### Objective
 Developed SQL-based analytics to deliver detailed insights into:
@@ -60,7 +60,13 @@ Developed SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-These insights are designed to empower stakeholders with key business metrics and enable strategic decision-making.  
+This repository covers the backend Data Engineering (extracting, cleansing, and modeling the data into a Star Schema). 
+
+To see how I utilized the resulting **Gold Layer** to extract strategic business insights, perform customer segmentation, and track KPIs using advanced T-SQL, check out the second half of this project:
+
+> **View the Business Intelligence phase here:** > [SQL Data Analytics & Reporting Project](https://github.com/KrishnaSai315/SQL-Data-Analytics/tree/main)
+
+These insights help stakeholders understand key business metrics and make strategic decisions.  
 
 ---
 
