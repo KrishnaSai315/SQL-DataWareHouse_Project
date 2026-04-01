@@ -126,4 +126,4 @@ If something I've built looks interesting or useful, feel free to reach out.
 
 ## 🙌 Acknowledgements
 
-* **Data with Baraa:** Special thanks for providing the foundational dataset and project concept that inspired this end-to-end analytics build.
+**Data with Baraa:** Special thanks for providing the foundational dataset and project concept that inspired this end-to-end analytics build.
