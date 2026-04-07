@@ -107,7 +107,7 @@ With an MS in Data Science and hands-on experience as a Systems Engineer and Dat
 
 ### Why I Built This Project
 
-I developed this repository to demonstrate my ability to own the entire data lifecycle from end to end. I wanted to showcase that I can bridge the gap between building resilient backend data architecture and delivering front-end business value—proving I can handle both the heavy lifting of data engineering and the nuanced logic of advanced analytics.
+I developed this repository to demonstrate my ability to own the entire data lifecycle from end to end. I wanted to showcase that I can bridge the gap between building resilient backend data architecture and delivering front-end business value proving I can handle both the heavy lifting of data engineering and the nuanced logic of advanced analytics.
 
 ### What I Accomplished Here
 
